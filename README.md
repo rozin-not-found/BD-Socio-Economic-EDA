@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) of Bangladesh's Economic and Demographic Trends
+# Exploratory Data Analysis (EDA) of Bangladesh's Economic and Demographic Trends 
 
 ##  Project Overview
 This project performs an **Exploratory Data Analysis (EDA)** on a dataset containing economic and demographic indicators of Bangladesh, including **GDP, Inflation Rate, Literacy Rate, Population Growth, and Net Migration Rate**. The primary objective is to analyze key trends, identify correlations, and prepare the data for further regression analysis.
